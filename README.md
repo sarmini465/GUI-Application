@@ -4,5 +4,5 @@ Aplikasi ini dibuat untuk memenuhi tugas akhir mata kuliah Bahasa Pemrograman. I
 3. Dilla Caroline
 4. Johan Damar
 
-   Untuk menjalankan program silakan download file "login.exe", lalu masukkan username dan password yuang ada dalam file database
+   Untuk menjalankan program silakan download file "login.exe", lalu masukkan username dan password yang ada dalam file database
    
